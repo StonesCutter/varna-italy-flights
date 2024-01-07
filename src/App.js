@@ -21,9 +21,8 @@ const App = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Count of signatures
         </a>
-        <button onClick={fetchData}>Fetch Data</button>
         <FetchCSVData />
       </header>
     </div>
