@@ -2,7 +2,7 @@
   "name": "varna-flights",
   "version": "0.1.0",
   "private": true,
-  "home": "http://{StonesCutter}.github.io/{varna-italy-flights}",
+  "homepage": "http://StonesCutter.github.io/varna-italy-flights",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
