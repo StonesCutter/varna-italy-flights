@@ -28,6 +28,15 @@
   color: #61dafb;
 }
 
+.article-picture {
+  width: 70vw;
+  cursor: pointer;
+}
+
+.article-picture:hover {
+  transform: scale(1.02);
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

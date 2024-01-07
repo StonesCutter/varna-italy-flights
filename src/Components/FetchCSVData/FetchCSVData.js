@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
+import "./fetch-csv-data.css";
 
 const CSV_URL =
   "https://docs.google.com/spreadsheets/d/e/2PACX-1vQiV-gPfVgu4cadLomBkjdVDh-BGrMNh5EIk5FkUzehKRuGLsYoOAow4nuINtHawy5Wq7M3YA8jrt99/pub?gid=0&single=true&output=csv";
@@ -78,7 +79,13 @@ const FetchCSVData = () => {
   //     </div>
   //   );
 
-  return <h1>{state.signaturesData + state.signaturesEnData}</h1>;
+  return (
+    <>
+      <div className="number-of-people">
+        <h2>{state.signaturesData + state.signaturesEnData}</h2>
+      </div>
+    </>
+  );
 };
 
 export default FetchCSVData;

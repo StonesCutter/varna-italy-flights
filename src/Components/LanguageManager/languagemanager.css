@@ -1,0 +1,26 @@
+.language-select {
+  font-family: var(--font-main-title);
+  color: var(--secondary-color);
+  border-color: aqua;
+  background-color: rgba(248, 246, 246, 0.273);
+  height: 60px;
+  width: 140px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 10px;
+}
+
+.flag-logo {
+  border-radius: 8px;
+  height: 40px;
+  width: 60px;
+  object-fit: cover;
+}
+
+.menu-item-content {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Center the content horizontally */
+  width: 100%; /* Make the MenuItem take up full width */
+}

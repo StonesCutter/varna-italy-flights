@@ -1,0 +1,17 @@
+.button-petition {
+  padding: 5px;
+  background-color: #ff9671;
+  padding-left: 10vw;
+  padding-right: 10vw;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 25px;
+  font-size: 25px;
+  cursor: pointer; /* Set cursor to pointer on hover */
+  transition: background-color 0.3s ease; /* Add a smooth transition effect */
+}
+
+.button-petition:hover {
+  background-color: #ffc75e; /* Change color on hover */
+  transform: scale(1.05);
+}
