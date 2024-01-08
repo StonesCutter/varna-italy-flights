@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/varna-italy-flights/static/css/main.6c6e9ba2.css",
-    "main.js": "/varna-italy-flights/static/js/main.592c300e.js",
+    "main.js": "/varna-italy-flights/static/js/main.2c648672.js",
     "static/js/787.0038516f.chunk.js": "/varna-italy-flights/static/js/787.0038516f.chunk.js",
     "static/media/article1.jpg": "/varna-italy-flights/static/media/article1.d4d18a3bbeab049d319a.jpg",
     "static/media/consulate.jpg": "/varna-italy-flights/static/media/consulate.dc4204c633178096371f.jpg",
@@ -11,11 +11,11 @@
     "static/media/it.svg": "/varna-italy-flights/static/media/it.f091379c76be7fc601e3be5076be85a8.svg",
     "static/media/bg.svg": "/varna-italy-flights/static/media/bg.c3282e1fb2c4344e3c615e2630d6db25.svg",
     "main.6c6e9ba2.css.map": "/varna-italy-flights/static/css/main.6c6e9ba2.css.map",
-    "main.592c300e.js.map": "/varna-italy-flights/static/js/main.592c300e.js.map",
+    "main.2c648672.js.map": "/varna-italy-flights/static/js/main.2c648672.js.map",
     "787.0038516f.chunk.js.map": "/varna-italy-flights/static/js/787.0038516f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c6e9ba2.css",
-    "static/js/main.592c300e.js"
+    "static/js/main.2c648672.js"
   ]
 }
